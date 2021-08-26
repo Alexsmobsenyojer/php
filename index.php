@@ -17,10 +17,7 @@
 <body>
 <?php
 echo "Hello"; 
-class Aaa extends AnotherClass implements Interface
-{
-    
-}
+
 
 
 ?>
